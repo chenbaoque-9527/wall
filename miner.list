@@ -1,0 +1,14 @@
+# 鱼池
+DOMAIN-KEYWORD,f2pool
+DOMAIN-SUFFIX,f2pool.com
+DOMAIN-SUFFIX,eth.f2pool.com
+DOMAIN-SUFFIX,etc.f2pool.com
+# 加密货币
+DOMAIN-KEYWORD,eth
+DOMAIN-KEYWORD,btc
+
+#交易所
+DOMAIN-KEYWORD,okex
+DOMAIN-KEYWORD,mexc
+DOMAIN-KEYWORD,binance
+DOMAIN-KEYWORD,tradingview
