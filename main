@@ -1,0 +1,2 @@
+ruleset=全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list
+custom_proxy_group=
